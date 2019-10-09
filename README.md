@@ -5,4 +5,4 @@
 * Stulich, John
 * Tapia, Daniel
 * Tobias, Rebecca
-
+* Vega, Alexander
