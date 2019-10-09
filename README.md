@@ -1,2 +1,3 @@
-# Tapia, Daniel
-* John Stulich
+# List of Names
+* Stulich, John
+* Tapia, Daniel
