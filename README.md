@@ -1,2 +1,1 @@
 # Tapia, Daniel
-* John Stulich
